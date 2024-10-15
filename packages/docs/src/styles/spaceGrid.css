@@ -1,0 +1,47 @@
+.space-grid {
+  width: 100%;
+  font-family: sans-serif;
+  color: #fff;
+  border-collapse: collapse;
+}
+
+.space-grid thead th {
+  padding: 0.75rem 1rem;
+  text-align: left;
+}
+
+.space-grid thead tr {
+  border-top: 0 !important;
+  border-bottom: 0 !important;
+}
+
+.space-grid thead tr th {
+  border: 0 !important;
+}
+
+.space-grid tbody td {
+  padding: 0.75rem 1rem;
+  color: #ccc;
+}
+
+.space-grid tbody tr {
+  border-top: 0 !important;
+}
+
+.space-grid tbody tr td {
+  border: 0 !important;
+}
+
+.space-grid tbody td:first-child {
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
+}
+
+.space-grid tbody td:last-child {
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+
+.space-grid tbody tr:nth-child(even) td {
+  background: #444;
+}

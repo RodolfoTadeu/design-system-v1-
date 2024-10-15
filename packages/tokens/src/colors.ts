@@ -1,0 +1,25 @@
+export const colors = {
+  floraColors1: "#FF0801",
+  floraColors2: "#FF5501",
+  floraColors3: "#E29500",
+  floraColors4: "#A7B820",
+  floraColors5: "#6CD115",
+  floraColors6: "#00a470",
+  floraColors7: "#449D71",
+  floraColors8: "#007768",
+  floraColors9: "#1B57CE",
+  floraColors10: "#7E15E3",
+  floraColors11: "#FF01B1",
+  floraColors12: "#FF0162",
+
+  floraColorsBrand1: "#626CC3",
+  floraColorsBrand2: "#7A8CCB",
+  floraColorsBrand3: "#657398",
+
+  floraColorsDarkDark: "#000000",
+  floraColorsLightDark1: "#F5F5F5",
+  floraColorsLightDark2: "#FFFFFF",
+  floraColorsMediumLight1: "#515151",
+  floraColorsMediumLight2: "#CCCCCC",
+  floraColorsMediuMmedium: "#878787",
+};
